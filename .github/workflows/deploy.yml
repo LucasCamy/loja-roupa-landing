@@ -10,6 +10,7 @@ on:
       - '**.md'
       - 'k8s/**'
       - 'scripts/**'
+      - 'docs/**'
   workflow_dispatch:
 
 jobs:
