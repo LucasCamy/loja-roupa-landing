@@ -1,0 +1,61 @@
+/*
+ * Aura Atelier · Warm Mediterranean Boutique
+ * Tokens espelhados em design/tokens.json. Alterou aqui, altere lá.
+ */
+:root {
+  --linen: #faf6f0;
+  --ivory: #fffdf9;
+  --sand: #efe7da;
+  --sand-line: #e2d5c1;
+  --espresso: #2c221e;
+  --taupe: #6b584c;
+  --terracotta: #c4684e;
+  --terracotta-deep: #9e4730;
+  --sage: #6e8268;
+  --sage-deep: #4f6249;
+  --sage-soft: #e6ece3;
+  --butter: #f2d479;
+  --whatsapp-green: #2f6b48;
+  --error: #a3362a;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-instant: 120ms;
+  --dur-fast: 180ms;
+  --dur-base: 280ms;
+  --dur-slow: 560ms;
+  --dur-slower: 900ms;
+
+  --nav-h: 108px;
+}
+
+@theme inline {
+  --color-linen: var(--linen);
+  --color-ivory: var(--ivory);
+  --color-sand: var(--sand);
+  --color-sand-line: var(--sand-line);
+  --color-espresso: var(--espresso);
+  --color-taupe: var(--taupe);
+  --color-terracotta: var(--terracotta);
+  --color-terracotta-deep: var(--terracotta-deep);
+  --color-sage: var(--sage);
+  --color-sage-deep: var(--sage-deep);
+  --color-sage-soft: var(--sage-soft);
+  --color-butter: var(--butter);
+  --color-whatsapp-green: var(--whatsapp-green);
+  --color-error: var(--error);
+
+  --font-display: 'Cormorant Garamond Variable', 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans Variable', 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono Variable', 'JetBrains Mono', ui-monospace, monospace;
+
+  --radius-badge: 4px;
+  --radius-control: 10px;
+  --radius-panel: 18px;
+  --radius-frame: 28px;
+
+  --shadow-soft: 0 1px 2px rgb(44 34 30 / 0.06), 0 8px 24px -12px rgb(44 34 30 / 0.18);
+  --shadow-lift: 0 24px 60px -24px rgb(44 34 30 / 0.35);
+
+  --breakpoint-xs: 400px;
+}

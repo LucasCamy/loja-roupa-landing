@@ -1,0 +1,108 @@
+@import 'tailwindcss' source('.');
+@import './styles/tokens.css';
+
+@layer base {
+  html {
+    background: var(--linen);
+    color: var(--espresso);
+    scroll-padding-top: var(--nav-h);
+    -webkit-text-size-adjust: 100%;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  body {
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    line-height: 1.04;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  h1 em,
+  h2 em,
+  h3 em {
+    font-style: italic;
+    color: var(--terracotta-deep);
+  }
+  p {
+    text-wrap: pretty;
+  }
+  :focus-visible {
+    outline: 2px solid var(--terracotta-deep);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  ::selection {
+    background: var(--butter);
+    color: var(--espresso);
+  }
+  button {
+    cursor: pointer;
+  }
+}
+
+@layer components {
+  .container-x {
+    margin-inline: auto;
+    width: 100%;
+    max-width: 1360px;
+    padding-inline: 1rem;
+  }
+  @media (min-width: 640px) {
+    .container-x {
+      padding-inline: 1.5rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    .container-x {
+      padding-inline: 2.5rem;
+    }
+  }
+  .eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--terracotta-deep);
+  }
+  .sku {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--taupe);
+  }
+  .num {
+    font-variant-numeric: tabular-nums;
+  }
+  .h2 {
+    font-size: clamp(2.1rem, 1.5rem + 2.6vw, 3.6rem);
+  }
+  .linen-texture {
+    background-image:
+      repeating-linear-gradient(0deg, rgb(44 34 30 / 0.018) 0 1px, transparent 1px 3px),
+      repeating-linear-gradient(90deg, rgb(44 34 30 / 0.014) 0 1px, transparent 1px 4px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html:not(.force-motion) *,
+  html:not(.force-motion) *::before,
+  html:not(.force-motion) *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+*.local
+.DS_Store
+screenshots
+test-results
+.claude/launch.json
+.claude/skills
+landing-page-moda-package.zip
+work/
+sources/
+scripts/__pycache__/

@@ -1,0 +1,5095 @@
+{
+  "status": "ready",
+  "brand": "Aura Linho & Atelier",
+  "language": "pt-BR",
+  "createdDate": "2026-10-28",
+  "focalPointConvention": "Normalized coordinates from top-left, x/y in [0,1].",
+  "provenance": {
+    "stills": "AI-generated original editorial artwork using built-in image_gen.",
+    "people": "Fictional models and fictional creative director; not photographs of actual staff.",
+    "motion": "Digital fabric deformation and light animation derived from generated stills; not live-action footage.",
+    "avif": "Each file separately encoded with libaom-av1, still-picture=1, frames:v=1, crf=30, yuv420p."
+  },
+  "images": [
+    {
+      "path": "media/hero-main.avif",
+      "format": "avif",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 86178,
+      "alt": "Modelo com vestido midi de linho terracota em ateliê iluminado pelo sol, com cortina de linho e arara de madeira clara.",
+      "focalPoint": {
+        "x": 0.54,
+        "y": 0.48
+      },
+      "sha256": "58537f7a9de6c3bcb28a0d0829e1b02be36e88547919f30c9217579cc5b991ca"
+    },
+    {
+      "path": "media/hero-main.webp",
+      "format": "webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 235716,
+      "alt": "Modelo com vestido midi de linho terracota em ateliê iluminado pelo sol, com cortina de linho e arara de madeira clara.",
+      "focalPoint": {
+        "x": 0.54,
+        "y": 0.48
+      },
+      "sha256": "f117201015bafc1b7f76d7c358832d2c8861c40d6a7c4429ced10a810bc7e819"
+    },
+    {
+      "path": "media/lookbook-full.avif",
+      "format": "avif",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 78709,
+      "alt": "Look completo com blazer de linho areia, top cropped de tricô off-white e calça pantalona de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "2773b3de0ec91a0a96dcde0a01cccdb0656a05fcfced88c528d31d322479c315"
+    },
+    {
+      "path": "media/lookbook-full.webp",
+      "format": "webp",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 217882,
+      "alt": "Look completo com blazer de linho areia, top cropped de tricô off-white e calça pantalona de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "eabf6c350afa20ccfba4bf84bb7eb5e552c1a720874d9c401fc0525c057de453"
+    },
+    {
+      "path": "media/atelier-process.avif",
+      "format": "avif",
+      "width": 1400,
+      "height": 1050,
+      "bytes": 116750,
+      "alt": "Mesa de modelagem com rolos de linho, fita métrica, tesoura dourada, amostras de tecidos e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "52c9f75fe07521f064974c49e12d66033bb9874388359e1d9b72f971353b95f5"
+    },
+    {
+      "path": "media/atelier-process.webp",
+      "format": "webp",
+      "width": 1400,
+      "height": 1050,
+      "bytes": 290286,
+      "alt": "Mesa de modelagem com rolos de linho, fita métrica, tesoura dourada, amostras de tecidos e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "d36d522eaffc133e1b3c8fa1e0e6e7e7d0d863dfdfcbde09f84e15b634b8e1b9"
+    },
+    {
+      "path": "media/founder-portrait.avif",
+      "format": "avif",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 58841,
+      "alt": "Retrato editorial de diretora criativa fictícia ajustando uma peça em manequim de costura no ateliê.",
+      "focalPoint": {
+        "x": 0.48,
+        "y": 0.38
+      },
+      "sha256": "2d64029781b1b8651a5b4662ceaa3fb89f45ca0843ed9648c03aeaacbe1eeccf"
+    },
+    {
+      "path": "media/founder-portrait.webp",
+      "format": "webp",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 171464,
+      "alt": "Retrato editorial de diretora criativa fictícia ajustando uma peça em manequim de costura no ateliê.",
+      "focalPoint": {
+        "x": 0.48,
+        "y": 0.38
+      },
+      "sha256": "26dbd3b8d0f0a8e0f2c4fdea41f2bbac99292acb7b1eafe2df8421986b89c5e7"
+    },
+    {
+      "path": "media/sketch-before.avif",
+      "format": "avif",
+      "width": 1024,
+      "height": 576,
+      "bytes": 52734,
+      "alt": "Croqui de vestido midi sobre papel creme, com linhas de construção e cotas de caimento alinhadas à imagem final.",
+      "focalPoint": {
+        "x": 0.54,
+        "y": 0.48
+      },
+      "sha256": "a09638a24a88c36ba8819a1ee292d223446e7763263338b15617b5f2699afd50"
+    },
+    {
+      "path": "media/sketch-before.webp",
+      "format": "webp",
+      "width": 1024,
+      "height": 576,
+      "bytes": 117678,
+      "alt": "Croqui de vestido midi sobre papel creme, com linhas de construção e cotas de caimento alinhadas à imagem final.",
+      "focalPoint": {
+        "x": 0.54,
+        "y": 0.48
+      },
+      "sha256": "2f753b11fad4c66adc0eb5016769e97d6146c7532ae0e7fb74a550c282ba3c09"
+    },
+    {
+      "path": "media/prod-01-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 34267,
+      "alt": "Vista frontal de vestido midi de linho terracota com alças largas e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "1495066c18f9bd9369cc3c35aebb286b613878cc4974a84a84091fe15ea9a02e"
+    },
+    {
+      "path": "media/prod-01-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 104846,
+      "alt": "Vista frontal de vestido midi de linho terracota com alças largas e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "f62f25361832bb0647ff6b172692ac40257de72f3e75ee82e42bd89ea859f458"
+    },
+    {
+      "path": "media/prod-01-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 37056,
+      "alt": "Detalhe de textura e acabamento de vestido midi de linho terracota com alças largas e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "d0d25d2c8e01d77808c0ccbbe03917460b508622d81026da7c11ddf7251cdefc"
+    },
+    {
+      "path": "media/prod-01-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 134344,
+      "alt": "Detalhe de textura e acabamento de vestido midi de linho terracota com alças largas e botões naturais.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "61ed6ae250fd6b5ebeaba678dacf9cf608de96474ee279d3527844f198c733f1"
+    },
+    {
+      "path": "media/prod-02-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 53293,
+      "alt": "Vista frontal de blazer oversized de linho areia com lapelas e bolsos.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "6607e885c006b17c0d80d3e5f48c4f0ef95e4663281f7371ff66875368972766"
+    },
+    {
+      "path": "media/prod-02-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 136138,
+      "alt": "Vista frontal de blazer oversized de linho areia com lapelas e bolsos.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "8c8373eb7968df2c16e4f27ea67d01ea1654669706cda4d6ed9c9dcc5d3c1911"
+    },
+    {
+      "path": "media/prod-02-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 43825,
+      "alt": "Detalhe de textura e acabamento de blazer oversized de linho areia com lapelas e bolsos.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "0719222e6ce52b5afb294e3368262cf3fc63ca052fe9b6b42267dbef41534e28"
+    },
+    {
+      "path": "media/prod-02-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 144922,
+      "alt": "Detalhe de textura e acabamento de blazer oversized de linho areia com lapelas e bolsos.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "2c61e4e31dc9c9f68611b61744390043519cebbb67e3ed7c05441331c383faae"
+    },
+    {
+      "path": "media/prod-03-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 23189,
+      "alt": "Vista frontal de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "7b8d0489312b8d9430ebe3d6a7138c31bada0de7f7100c5836bda884b3bfda90"
+    },
+    {
+      "path": "media/prod-03-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 72942,
+      "alt": "Vista frontal de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "5c9b26af040dc8d9d94303bef8ac53b431cc27f7e70608c2032123a09b69f5d7"
+    },
+    {
+      "path": "media/prod-03-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 15443,
+      "alt": "Detalhe de textura e acabamento de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "e315dc0d41d412f50020fc12cf3d28cf655e8e51413ddbf9bd92a81c7defbf74"
+    },
+    {
+      "path": "media/prod-03-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 74954,
+      "alt": "Detalhe de textura e acabamento de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "cad21da7b0a3c1058ecb609ee3c905b1e63a28bf51169fa89cb317f72f13b3a0"
+    },
+    {
+      "path": "media/prod-04-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 42868,
+      "alt": "Vista frontal de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "b1c02e31e8f808bba3be7021735a52896e10712d598deef1de2cb2aa2524d9ea"
+    },
+    {
+      "path": "media/prod-04-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 116210,
+      "alt": "Vista frontal de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "1f34175895f3107730b88aae85540ca1c445e6c15d4017ec57c3e247629d6106"
+    },
+    {
+      "path": "media/prod-04-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 58158,
+      "alt": "Detalhe de textura e acabamento de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "80b2acefaec280f6f7d78bd3112c51e43d4050136c71b968e4ef0135a1992003"
+    },
+    {
+      "path": "media/prod-04-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 155828,
+      "alt": "Detalhe de textura e acabamento de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "733073d218243109537eacd08af9a605d2e3aaf1c05742513d9180a0faf109b8"
+    },
+    {
+      "path": "media/prod-05-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 56891,
+      "alt": "Vista frontal de conjunto de camisa e short de linho verde sálvia.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "790470740f7b83a2941674e3c65cfe02c1d92cc93c68f9dff16bde5c86a8a944"
+    },
+    {
+      "path": "media/prod-05-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 144150,
+      "alt": "Vista frontal de conjunto de camisa e short de linho verde sálvia.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "ec173216dedd69afd4b4a2483d8874fb9e90e95bcd43d72e565420d0b17d7c92"
+    },
+    {
+      "path": "media/prod-05-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 33538,
+      "alt": "Detalhe de textura e acabamento de conjunto de camisa e short de linho verde sálvia.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "ce7b6ee3c9b56e1e4893b32b332b1f361ba55dee0be8d077d7eb003f6221be6e"
+    },
+    {
+      "path": "media/prod-05-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 123384,
+      "alt": "Detalhe de textura e acabamento de conjunto de camisa e short de linho verde sálvia.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "c526b6d745ff9339fc794ab9a57434bc1f74380f66bc97338c3ff1725e021cd0"
+    },
+    {
+      "path": "media/prod-06-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 34961,
+      "alt": "Vista frontal de saia midi evasê off-white com botões de madrepérola.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "753210f9a689ab5691859708820b769e944a1090ffdd21414660223245345499"
+    },
+    {
+      "path": "media/prod-06-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 94974,
+      "alt": "Vista frontal de saia midi evasê off-white com botões de madrepérola.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "ea771e9bd5325fbe121187c820a3fee8e40371e37a1540f4d8f3036373515230"
+    },
+    {
+      "path": "media/prod-06-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 17477,
+      "alt": "Detalhe de textura e acabamento de saia midi evasê off-white com botões de madrepérola.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "087d77a6a872fee9621a214e9cf1ff9f052299027b28293f3dc85e8cb57f79ee"
+    },
+    {
+      "path": "media/prod-06-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 64888,
+      "alt": "Detalhe de textura e acabamento de saia midi evasê off-white com botões de madrepérola.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "078890d66909b619053137e2393685a491b4622745fcdf188e072bc45f195506"
+    },
+    {
+      "path": "media/prod-07-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 38627,
+      "alt": "Vista frontal de vestido longo frente única amarelo manteiga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "09555ee6fde042ea44dd63982c9f513df50d9d5ab1a213dc1b1463db1759d0ca"
+    },
+    {
+      "path": "media/prod-07-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 108932,
+      "alt": "Vista frontal de vestido longo frente única amarelo manteiga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "a2adab66f29db68aa5e19818742db94b4f17074ba8f8c6b6451285da0e90c379"
+    },
+    {
+      "path": "media/prod-07-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 25050,
+      "alt": "Detalhe de textura e acabamento de vestido longo frente única amarelo manteiga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "90f5d77f4276f8a0ddaf4c6379dc2b3fe19eb50a06534795e344b910c045e6d0"
+    },
+    {
+      "path": "media/prod-07-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 91090,
+      "alt": "Detalhe de textura e acabamento de vestido longo frente única amarelo manteiga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "dd047a4b4966484f21bc27d986a91d31a2127c1d4cc15893971e8e6d7e10070e"
+    },
+    {
+      "path": "media/prod-08-a.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 40801,
+      "alt": "Vista frontal de cardigan de tricô cacau com botões tartaruga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "7df4e273325ef422d77f1241fd99bb807454c9286eb1b01102c379904684e762"
+    },
+    {
+      "path": "media/prod-08-a.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 113988,
+      "alt": "Vista frontal de cardigan de tricô cacau com botões tartaruga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "1773143cc2293e2fcd94cf6b34bbfaccff572d9135de89f62d0f85eb893ec547"
+    },
+    {
+      "path": "media/prod-08-b.avif",
+      "format": "avif",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 44231,
+      "alt": "Detalhe de textura e acabamento de cardigan de tricô cacau com botões tartaruga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "0f7ad27d59c7eb689c6e9fdba049367619d12592665a87f74f2003c881dba6d6"
+    },
+    {
+      "path": "media/prod-08-b.webp",
+      "format": "webp",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 133796,
+      "alt": "Detalhe de textura e acabamento de cardigan de tricô cacau com botões tartaruga.",
+      "focalPoint": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sha256": "616fb4792fe60f316a865b5b26484e83f6ce1e4e1d318191035b3524a34d9f72"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-01",
+      "name": "Vestido Midi Brisa em Linho Puro",
+      "collectionColorOptions": "Terracota / Areia",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-01-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 34267,
+          "alt": "Vista frontal de vestido midi de linho terracota com alças largas e botões naturais.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "1495066c18f9bd9369cc3c35aebb286b613878cc4974a84a84091fe15ea9a02e"
+        },
+        {
+          "path": "media/prod-01-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 104846,
+          "alt": "Vista frontal de vestido midi de linho terracota com alças largas e botões naturais.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "f62f25361832bb0647ff6b172692ac40257de72f3e75ee82e42bd89ea859f458"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-01-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 37056,
+          "alt": "Detalhe de textura e acabamento de vestido midi de linho terracota com alças largas e botões naturais.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "d0d25d2c8e01d77808c0ccbbe03917460b508622d81026da7c11ddf7251cdefc"
+        },
+        {
+          "path": "media/prod-01-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 134344,
+          "alt": "Detalhe de textura e acabamento de vestido midi de linho terracota com alças largas e botões naturais.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "61ed6ae250fd6b5ebeaba678dacf9cf608de96474ee279d3527844f198c733f1"
+        }
+      ]
+    },
+    {
+      "id": "prod-02",
+      "name": "Blazer Oversized Atelier 100% Linho",
+      "collectionColorOptions": "Areia / Off-White",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-02-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 53293,
+          "alt": "Vista frontal de blazer oversized de linho areia com lapelas e bolsos.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "6607e885c006b17c0d80d3e5f48c4f0ef95e4663281f7371ff66875368972766"
+        },
+        {
+          "path": "media/prod-02-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 136138,
+          "alt": "Vista frontal de blazer oversized de linho areia com lapelas e bolsos.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "8c8373eb7968df2c16e4f27ea67d01ea1654669706cda4d6ed9c9dcc5d3c1911"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-02-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 43825,
+          "alt": "Detalhe de textura e acabamento de blazer oversized de linho areia com lapelas e bolsos.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "0719222e6ce52b5afb294e3368262cf3fc63ca052fe9b6b42267dbef41534e28"
+        },
+        {
+          "path": "media/prod-02-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 144922,
+          "alt": "Detalhe de textura e acabamento de blazer oversized de linho areia com lapelas e bolsos.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "2c61e4e31dc9c9f68611b61744390043519cebbb67e3ed7c05441331c383faae"
+        }
+      ]
+    },
+    {
+      "id": "prod-03",
+      "name": "Calça Pantalona Pregas Alfaiataria",
+      "collectionColorOptions": "Areia / Cacau",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-03-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 23189,
+          "alt": "Vista frontal de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "7b8d0489312b8d9430ebe3d6a7138c31bada0de7f7100c5836bda884b3bfda90"
+        },
+        {
+          "path": "media/prod-03-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 72942,
+          "alt": "Vista frontal de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "5c9b26af040dc8d9d94303bef8ac53b431cc27f7e70608c2032123a09b69f5d7"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-03-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 15443,
+          "alt": "Detalhe de textura e acabamento de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "e315dc0d41d412f50020fc12cf3d28cf655e8e51413ddbf9bd92a81c7defbf74"
+        },
+        {
+          "path": "media/prod-03-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 74954,
+          "alt": "Detalhe de textura e acabamento de calça pantalona areia com cintura alta e pregas de alfaiataria.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "cad21da7b0a3c1058ecb609ee3c905b1e63a28bf51169fa89cb317f72f13b3a0"
+        }
+      ]
+    },
+    {
+      "id": "prod-04",
+      "name": "Top Tricô Ponto Trama Artesanal",
+      "collectionColorOptions": "Manteiga / Cru",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-04-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 42868,
+          "alt": "Vista frontal de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "b1c02e31e8f808bba3be7021735a52896e10712d598deef1de2cb2aa2524d9ea"
+        },
+        {
+          "path": "media/prod-04-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 116210,
+          "alt": "Vista frontal de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "1f34175895f3107730b88aae85540ca1c445e6c15d4017ec57c3e247629d6106"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-04-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 58158,
+          "alt": "Detalhe de textura e acabamento de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "80b2acefaec280f6f7d78bd3112c51e43d4050136c71b968e4ef0135a1992003"
+        },
+        {
+          "path": "media/prod-04-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 155828,
+          "alt": "Detalhe de textura e acabamento de top cropped de tricô artesanal amarelo manteiga com ponto texturizado.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "733073d218243109537eacd08af9a605d2e3aaf1c05742513d9180a0faf109b8"
+        }
+      ]
+    },
+    {
+      "id": "prod-05",
+      "name": "Conjunto Co-ord Camisa + Short Linho",
+      "collectionColorOptions": "Verde Sálvia",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-05-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 56891,
+          "alt": "Vista frontal de conjunto de camisa e short de linho verde sálvia.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "790470740f7b83a2941674e3c65cfe02c1d92cc93c68f9dff16bde5c86a8a944"
+        },
+        {
+          "path": "media/prod-05-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 144150,
+          "alt": "Vista frontal de conjunto de camisa e short de linho verde sálvia.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "ec173216dedd69afd4b4a2483d8874fb9e90e95bcd43d72e565420d0b17d7c92"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-05-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 33538,
+          "alt": "Detalhe de textura e acabamento de conjunto de camisa e short de linho verde sálvia.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "ce7b6ee3c9b56e1e4893b32b332b1f361ba55dee0be8d077d7eb003f6221be6e"
+        },
+        {
+          "path": "media/prod-05-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 123384,
+          "alt": "Detalhe de textura e acabamento de conjunto de camisa e short de linho verde sálvia.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "c526b6d745ff9339fc794ab9a57434bc1f74380f66bc97338c3ff1725e021cd0"
+        }
+      ]
+    },
+    {
+      "id": "prod-06",
+      "name": "Saia Midi Evasê Botões Madrepérola",
+      "collectionColorOptions": "Off-White / Areia",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-06-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 34961,
+          "alt": "Vista frontal de saia midi evasê off-white com botões de madrepérola.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "753210f9a689ab5691859708820b769e944a1090ffdd21414660223245345499"
+        },
+        {
+          "path": "media/prod-06-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 94974,
+          "alt": "Vista frontal de saia midi evasê off-white com botões de madrepérola.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "ea771e9bd5325fbe121187c820a3fee8e40371e37a1540f4d8f3036373515230"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-06-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 17477,
+          "alt": "Detalhe de textura e acabamento de saia midi evasê off-white com botões de madrepérola.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "087d77a6a872fee9621a214e9cf1ff9f052299027b28293f3dc85e8cb57f79ee"
+        },
+        {
+          "path": "media/prod-06-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 64888,
+          "alt": "Detalhe de textura e acabamento de saia midi evasê off-white com botões de madrepérola.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "078890d66909b619053137e2393685a491b4622745fcdf188e072bc45f195506"
+        }
+      ]
+    },
+    {
+      "id": "prod-07",
+      "name": "Vestido Longo Resort Frente Única",
+      "collectionColorOptions": "Amarelo Manteiga / Terracota",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-07-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 38627,
+          "alt": "Vista frontal de vestido longo frente única amarelo manteiga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "09555ee6fde042ea44dd63982c9f513df50d9d5ab1a213dc1b1463db1759d0ca"
+        },
+        {
+          "path": "media/prod-07-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 108932,
+          "alt": "Vista frontal de vestido longo frente única amarelo manteiga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "a2adab66f29db68aa5e19818742db94b4f17074ba8f8c6b6451285da0e90c379"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-07-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 25050,
+          "alt": "Detalhe de textura e acabamento de vestido longo frente única amarelo manteiga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "90f5d77f4276f8a0ddaf4c6379dc2b3fe19eb50a06534795e344b910c045e6d0"
+        },
+        {
+          "path": "media/prod-07-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 91090,
+          "alt": "Detalhe de textura e acabamento de vestido longo frente única amarelo manteiga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "dd047a4b4966484f21bc27d986a91d31a2127c1d4cc15893971e8e6d7e10070e"
+        }
+      ]
+    },
+    {
+      "id": "prod-08",
+      "name": "Cardigan Tricô Botões Tartaruga",
+      "collectionColorOptions": "Cacau / Caramelo",
+      "note": "As opções de cor descrevem a coleção; as fotos mostram uma cor por produto.",
+      "front": [
+        {
+          "path": "media/prod-08-a.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 40801,
+          "alt": "Vista frontal de cardigan de tricô cacau com botões tartaruga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "7df4e273325ef422d77f1241fd99bb807454c9286eb1b01102c379904684e762"
+        },
+        {
+          "path": "media/prod-08-a.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 113988,
+          "alt": "Vista frontal de cardigan de tricô cacau com botões tartaruga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "1773143cc2293e2fcd94cf6b34bbfaccff572d9135de89f62d0f85eb893ec547"
+        }
+      ],
+      "hover": [
+        {
+          "path": "media/prod-08-b.avif",
+          "format": "avif",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 44231,
+          "alt": "Detalhe de textura e acabamento de cardigan de tricô cacau com botões tartaruga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "0f7ad27d59c7eb689c6e9fdba049367619d12592665a87f74f2003c881dba6d6"
+        },
+        {
+          "path": "media/prod-08-b.webp",
+          "format": "webp",
+          "width": 1000,
+          "height": 1250,
+          "bytes": 133796,
+          "alt": "Detalhe de textura e acabamento de cardigan de tricô cacau com botões tartaruga.",
+          "focalPoint": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sha256": "616fb4792fe60f316a865b5b26484e83f6ce1e4e1d318191035b3524a34d9f72"
+        }
+      ]
+    }
+  ],
+  "video": {
+    "path": "media/hero-ambient.mp4",
+    "format": "mp4",
+    "width": 1280,
+    "height": 720,
+    "bytes": 674580,
+    "alt": "Brisa suave movimenta cortina e peças de linho em arara de madeira sob luz dourada do ateliê.",
+    "focalPoint": {
+      "x": 0.62,
+      "y": 0.5
+    },
+    "sha256": "802935abcec2e35e5ca0476e26029dc3f6b2b6d3b04ad06d32f52daf967dd998",
+    "codec": "h264",
+    "fps": 24,
+    "durationSeconds": 4.5,
+    "frameCount": 108,
+    "crf": 24,
+    "audio": false,
+    "faststart": true,
+    "loop": true,
+    "crossfade": {
+      "transition": "fade",
+      "durationSeconds": 0.5,
+      "sourceOffsetSeconds": 4.5,
+      "postCrossfadeTrimStartSeconds": 0.5,
+      "sourceDurationSeconds": 5
+    }
+  },
+  "sequence": {
+    "id": "atelier-transformation",
+    "width": 1024,
+    "height": 576,
+    "fps": 24,
+    "frameCount": 120,
+    "durationSeconds": 5,
+    "formats": [
+      "avif",
+      "webp"
+    ],
+    "patterns": {
+      "avif": "media/frames/frame_%04d.avif",
+      "webp": "media/frames/frame_%04d.webp"
+    },
+    "alt": "Do croqui à peça pronta: criação de um vestido de linho em três atos.",
+    "focalPoint": {
+      "x": 0.54,
+      "y": 0.48
+    },
+    "acts": [
+      {
+        "from": 1,
+        "to": 35,
+        "name": "Croqui e modelagem"
+      },
+      {
+        "from": 36,
+        "to": 85,
+        "name": "Revelação diagonal do linho"
+      },
+      {
+        "from": 86,
+        "to": 120,
+        "name": "Peça finalizada e movimento"
+      }
+    ],
+    "frames": [
+      {
+        "index": 1,
+        "timeSeconds": 0.0,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0001.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 2380,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7a91c6112bd7a63bd20ab03f0b02014f66ef0c90b4affce0b7ac2f8cb4d73bb2"
+          },
+          {
+            "path": "media/frames/frame_0001.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11340,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ca853b0265f6358075cd649cd9471e0138fd9c3d10452a4b3abf41b5c956b91f"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "timeSeconds": 0.041667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0002.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 2412,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "fe015fa4df025e4dcceddc79b174e94cfea2a221c2e0f3af2573653a538ad491"
+          },
+          {
+            "path": "media/frames/frame_0002.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11386,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "83e5135eb173688972963f1bde2878df080d5da49c88a46bc356c41192a8554c"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "timeSeconds": 0.083333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0003.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 2441,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5a382c0398fb70dd899afd6f37c3f9e37a39ee5bd6364bb7aeffcfa37f5e7c71"
+          },
+          {
+            "path": "media/frames/frame_0003.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11440,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "66a95d4985e9cc4246d4aa5233a8061330e726d8c64bff5b3ac111d7866b8610"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "timeSeconds": 0.125,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0004.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 2477,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "599f9b0516a0aa3da03b5c2d795ab7e012dc42c2a2ecffc73d9c9269c0f6e39c"
+          },
+          {
+            "path": "media/frames/frame_0004.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11506,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6db00660aef9dad505af7e5c2c6cc741f86d1b95dac8395bfb99c56ea0f5cd5c"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "timeSeconds": 0.166667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0005.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 2628,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "dfdfc2b0d7322434abeafef288b8732a2e77ad99f6759d53faed978258eae4b6"
+          },
+          {
+            "path": "media/frames/frame_0005.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11682,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "fe3959b2582ba1ca722cef536e087f31cc005e8e701821d9ea8f85c59e5df2e4"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "timeSeconds": 0.208333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0006.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 3212,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "1343b265292420d713e2af0592cb0c6403a91a1f74103efed20a3e9fb44a822f"
+          },
+          {
+            "path": "media/frames/frame_0006.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 13466,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f735ea86455b9a71756576513debea8d66a84809eee1d2406e0d685233004396"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "timeSeconds": 0.25,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0007.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 4323,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a265e97bbd65e6cc238994498b9e5502f042e0e444f80f15fe5086f825f8ca9e"
+          },
+          {
+            "path": "media/frames/frame_0007.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 15058,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7232d35bfe2569b4a0fff4f7b2e8647f05d8a413617e670431bcdf6441d9cee1"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "timeSeconds": 0.291667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0008.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 5803,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ba25c92805b36b7a0a97727ebd8ccf31b1ef9f6e926cea90a805b58c22bdf38f"
+          },
+          {
+            "path": "media/frames/frame_0008.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 17184,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7a50543966868b7dc98cd6c7842376e0d6aa0652efbe3d152bfe09576f6ea4ba"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "timeSeconds": 0.333333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0009.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 7121,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d4b81b746af5b673b8052eafc4877acf61f2ac2551c40a1e028b95660f8eea0f"
+          },
+          {
+            "path": "media/frames/frame_0009.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 19266,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "4b37852f1bb2123bff356823a1cccbda404683bd6a30e9c2f25d7a99f722577c"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "timeSeconds": 0.375,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0010.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 8582,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8cba2679466cad5d323e05368918b6665954e328bb403c7285e0debc8a34ef43"
+          },
+          {
+            "path": "media/frames/frame_0010.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 21870,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "fb25ee6d8f0d02458afb0bf22c9508624e16d9f84dff5bd5b38d0a7ab30b852e"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "timeSeconds": 0.416667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0011.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 9844,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d4e9dcd1af587b2fbfe631f0f97fb46a954dfdbd93bf1d8770d4f4792a911520"
+          },
+          {
+            "path": "media/frames/frame_0011.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 24448,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e8080e30d1eef56804021f95adfdd31e8395afbfd59262a05df1c9a02bac2308"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "timeSeconds": 0.458333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0012.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 11468,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "b7679d4b7d1539d9400cbe3d8e44bf4c7b1f35e77ae925229aab555db495b0c0"
+          },
+          {
+            "path": "media/frames/frame_0012.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 27268,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cf1c082ff107db17266e4364d658e5c4dd2232ccd85080894a63bb4ddb852aad"
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "timeSeconds": 0.5,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0013.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 13571,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ebd601e97197d6678588db3579360dc50a1635a09c0ecf3a2c08d7b183bc40b5"
+          },
+          {
+            "path": "media/frames/frame_0013.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 31370,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ddaef267beadee08ee0b7632ac602d2980393be18003fa1c61b9f69c7f67c054"
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "timeSeconds": 0.541667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0014.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 16020,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6673fd349721b43f7e8146ad8b82f64b45381a3969f9affe5c43925f541ed578"
+          },
+          {
+            "path": "media/frames/frame_0014.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 35106,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "202605b47792f5317969a96d9ec653455a09f7404a30b4f10883acb49f3058b4"
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "timeSeconds": 0.583333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0015.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 18331,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "92cf4ceb21073cf329899c3e841a701f2800d371abebae14414498d07efd5b72"
+          },
+          {
+            "path": "media/frames/frame_0015.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38992,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d92deee1c21f0417fec61a18eedd19868ec3d0496e0f0adea478899adb8c0d0e"
+          }
+        ]
+      },
+      {
+        "index": 16,
+        "timeSeconds": 0.625,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0016.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 20787,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e4cfc4d8cad5b6b0e5085d49479012b9776bd448492426406cc6667fefdc7e0b"
+          },
+          {
+            "path": "media/frames/frame_0016.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 42924,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "be5e02ae71cd89fe02457590277dfab9f6ed67a13e1518c510cf704063c92501"
+          }
+        ]
+      },
+      {
+        "index": 17,
+        "timeSeconds": 0.666667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0017.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 22523,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8cb22982c4ad6073f668d439507753dfa6eefe979be8532b24f62911541dae61"
+          },
+          {
+            "path": "media/frames/frame_0017.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 47556,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "65d21d1cee5711aac1a91c79d295220caddcabe83902521e9419dd7d9dbc102f"
+          }
+        ]
+      },
+      {
+        "index": 18,
+        "timeSeconds": 0.708333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0018.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 24238,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9aed647c89747a7346ce72f90c6b47a671017bfad54f7da891ec802a5448ba0b"
+          },
+          {
+            "path": "media/frames/frame_0018.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 50782,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "232a681243c4891518ad1d1d700e4afac8de9d3ba3126fddc5a33da6e3965b7e"
+          }
+        ]
+      },
+      {
+        "index": 19,
+        "timeSeconds": 0.75,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0019.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 26019,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d715e36edc7ada4833682e965136603e7c28cdb395d6a2d727a6df6a7778a1bf"
+          },
+          {
+            "path": "media/frames/frame_0019.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 54104,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d8205bb1fb5df64e5f49d8b866a567097ab5997f2ca534c14aea3902e6bf27b8"
+          }
+        ]
+      },
+      {
+        "index": 20,
+        "timeSeconds": 0.791667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0020.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 27650,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "bfa90778612272014f2e04a2a582dbc9e0f766690f724b2d9ff09259d68e1318"
+          },
+          {
+            "path": "media/frames/frame_0020.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 57580,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d6917522132272516b462854ec0195dd715c0a557f8fc3aa988283dd4c2c49e0"
+          }
+        ]
+      },
+      {
+        "index": 21,
+        "timeSeconds": 0.833333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0021.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 30073,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "addfab5ffa3c59b2ca43141555ea9f5b64c9acda83bb06afb56553443c767852"
+          },
+          {
+            "path": "media/frames/frame_0021.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 61562,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ca0edafddb6c09935e062ecd43dc49a5f1ec4c8c029674f2c3b340beede797a1"
+          }
+        ]
+      },
+      {
+        "index": 22,
+        "timeSeconds": 0.875,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0022.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 31813,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "935a1ccc1ba6657693b00053865e225a0dee80acedf2adcae93808cd693ba36b"
+          },
+          {
+            "path": "media/frames/frame_0022.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 65320,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6beed0a3901736add0d2d5004a19722452493486148cf41cb04e5943d94ed790"
+          }
+        ]
+      },
+      {
+        "index": 23,
+        "timeSeconds": 0.916667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0023.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 35261,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6a42542406206f01993554815e4af6a7caa78a60d6760f02f7de08a4d23017fa"
+          },
+          {
+            "path": "media/frames/frame_0023.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 70662,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ad3703895ebfbfa3a1a3313d13ecd24631e2a619963953be355ec87bd5a5d33b"
+          }
+        ]
+      },
+      {
+        "index": 24,
+        "timeSeconds": 0.958333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0024.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37831,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "908afd1bec0fa72dca4445bd10be189d872ba640cf6d38140f72ac09d914b17a"
+          },
+          {
+            "path": "media/frames/frame_0024.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 74632,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "466bbf691a659bbead49296880b223165daf79eadba422eab699a39bada27d30"
+          }
+        ]
+      },
+      {
+        "index": 25,
+        "timeSeconds": 1.0,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0025.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 40620,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d100bd7fd4c8310f595ce3319a249624d3f9a5e7519bea89e49682f9cf2fc7c2"
+          },
+          {
+            "path": "media/frames/frame_0025.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79820,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "58b03e694b12ea06b6c060f60d5afec18d2d8dfdee8907d7c205654856b3c764"
+          }
+        ]
+      },
+      {
+        "index": 26,
+        "timeSeconds": 1.041667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0026.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 43285,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e0c2ed297f6487137a6aa7da55ca0f8f2459ec6a46885a816a0a1f4a3b4e3657"
+          },
+          {
+            "path": "media/frames/frame_0026.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 84266,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "14dd73ebdd3841b2315204158e6b436b99d587f69bdafcbdfc6bcc0f267d5db3"
+          }
+        ]
+      },
+      {
+        "index": 27,
+        "timeSeconds": 1.083333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0027.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 45852,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "64fe74ae50761cbb375b553c0ee4bc06b12ec8df0db2601685a8a2279653bb96"
+          },
+          {
+            "path": "media/frames/frame_0027.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 89990,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f2a7d660d6b49c0a7b2374398c69c84cba324111ac16a7312ad6bd0acbcfeaf8"
+          }
+        ]
+      },
+      {
+        "index": 28,
+        "timeSeconds": 1.125,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0028.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 48354,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "61c14890ccdf0061aedef9faa3de6b90b8265b58151570cc1b0971e3dac68340"
+          },
+          {
+            "path": "media/frames/frame_0028.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 93356,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2e88fd47d584d14b4f73861245359674c63627b40698f8ea3ef9c4a7093429b2"
+          }
+        ]
+      },
+      {
+        "index": 29,
+        "timeSeconds": 1.166667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0029.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 50223,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "121db0da12dde7101b5f348aa8e6f8c13b35a169bbebf2ad730f8fd5f34ecc42"
+          },
+          {
+            "path": "media/frames/frame_0029.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 95800,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "886014d1a68434104e79a55e4e450cb9af48bc5409467998703f9e92c178fdd9"
+          }
+        ]
+      },
+      {
+        "index": 30,
+        "timeSeconds": 1.208333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0030.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 51609,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5426ededd8d41650016fcd24f1acdbe1159f7ae0340acfef70687d4fe4c7ef82"
+          },
+          {
+            "path": "media/frames/frame_0030.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 98550,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5bb442aec99dfb83ca198e7b6d0a72475f8136dbc51ec6d436352deb7e60611d"
+          }
+        ]
+      },
+      {
+        "index": 31,
+        "timeSeconds": 1.25,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0031.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 52606,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cb4fc4a8926ee106fb72dea5b20012c3608b28a348eded9fb7eea0919ab04c6f"
+          },
+          {
+            "path": "media/frames/frame_0031.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 99760,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "bfad82dd003fb4c43345685a6542eca6c5f3eb63c977a9e2af4a07018009980a"
+          }
+        ]
+      },
+      {
+        "index": 32,
+        "timeSeconds": 1.291667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0032.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53311,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9dff9d3eb658f0ce37f8eb3627845db2a60b51dab20280a43a72b196ae1832d9"
+          },
+          {
+            "path": "media/frames/frame_0032.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100508,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "757a18ba30a6cfc0f12309ce4dd358188aae04f32205da6b803a980d1c966af2"
+          }
+        ]
+      },
+      {
+        "index": 33,
+        "timeSeconds": 1.333333,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0033.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53713,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "36a7eafc55437b383332fc2efa63f91126eb7a70cda0b67215180569438b6a27"
+          },
+          {
+            "path": "media/frames/frame_0033.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100906,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "480f2abda834c18d1a19d886b854b6ef75e720dc466a9b2a84f5f4c06726740d"
+          }
+        ]
+      },
+      {
+        "index": 34,
+        "timeSeconds": 1.375,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0034.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53768,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6b53f50d050fa79582f0d0641720fa623a6cd9c009fe81d18eb12792c902c4cc"
+          },
+          {
+            "path": "media/frames/frame_0034.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100972,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "0a2dd5e1520a61487ab4ff7771ba3a618f6bbd5e3c418cce714af8fcfda227c6"
+          }
+        ]
+      },
+      {
+        "index": 35,
+        "timeSeconds": 1.416667,
+        "act": 1,
+        "files": [
+          {
+            "path": "media/frames/frame_0035.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53777,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6d6657bff89160e3a1ef6555825d14f06d1c3bb142a463e60b43d09a5f1dd7bd"
+          },
+          {
+            "path": "media/frames/frame_0035.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100972,
+            "alt": "Croqui de vestido de linho com linhas de corte e cotas surgindo sobre papel creme.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e73879d6e94f7525bac3a83a01a6cce209311b8ba2c87ca404a9fd76bbc50509"
+          }
+        ]
+      },
+      {
+        "index": 36,
+        "timeSeconds": 1.458333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0036.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53777,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6d6657bff89160e3a1ef6555825d14f06d1c3bb142a463e60b43d09a5f1dd7bd"
+          },
+          {
+            "path": "media/frames/frame_0036.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100972,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e73879d6e94f7525bac3a83a01a6cce209311b8ba2c87ca404a9fd76bbc50509"
+          }
+        ]
+      },
+      {
+        "index": 37,
+        "timeSeconds": 1.5,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0037.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53524,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2cce0b9c0138761adb4dfac2e78a67bdad0ce54be65075380c2120af31bbbc49"
+          },
+          {
+            "path": "media/frames/frame_0037.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100910,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9913f2e9e6e636fb42e86110c6f5586154634db0eca85d3de589924bb68d4708"
+          }
+        ]
+      },
+      {
+        "index": 38,
+        "timeSeconds": 1.541667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0038.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53586,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9cf44aae72a5554c75d7c3ddf1ce3fc642fd3d783f1968baeabeed2de1a6b145"
+          },
+          {
+            "path": "media/frames/frame_0038.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100832,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "56bd04b70cb2c77535c6ef3657bdc64a697aaa685573035e7e63ba9cb00fcf19"
+          }
+        ]
+      },
+      {
+        "index": 39,
+        "timeSeconds": 1.583333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0039.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53612,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "19fbe56c8a72cc35ec2775a4193102edbcf30b1f0e40f8229c8056032961b2c6"
+          },
+          {
+            "path": "media/frames/frame_0039.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100916,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7605de11fb7f51a67762254a052300adf490ffc8a7392ca07527575bdfeb3096"
+          }
+        ]
+      },
+      {
+        "index": 40,
+        "timeSeconds": 1.625,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0040.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53699,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "627e0ecedd0f2dd1feeb620b7a15526270c0ca5f533643e665b8f204e99ea3bb"
+          },
+          {
+            "path": "media/frames/frame_0040.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100962,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "676be24a21f1fb7af20180bcc91bf6d553daa7b7121f79bd6a65d3d1935146f3"
+          }
+        ]
+      },
+      {
+        "index": 41,
+        "timeSeconds": 1.666667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0041.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53562,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "505354eb6f6e11499739bc7b60ef4fd870732338a9d7ab11110a032a1d31b7bd"
+          },
+          {
+            "path": "media/frames/frame_0041.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100754,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e698ba6c5c6fc39bb44f01bb94183469bbd6f991d17106853751875c9ba64905"
+          }
+        ]
+      },
+      {
+        "index": 42,
+        "timeSeconds": 1.708333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0042.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53712,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "029f63749a9d5e9cdb84251812b32218aedee51aa5e7a43c52c2830e3b073c1c"
+          },
+          {
+            "path": "media/frames/frame_0042.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100782,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "66760b8e4204daf76650eb784023df272a7f6e2877a22e3f3c7904c930bcd235"
+          }
+        ]
+      },
+      {
+        "index": 43,
+        "timeSeconds": 1.75,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0043.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53436,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cb81b2020c8fcf8f0659d5e7310634adc0d7abcab10487542c22c64cd19394b9"
+          },
+          {
+            "path": "media/frames/frame_0043.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100794,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e55852976e0923fb11a6d030a471cf116dc5ca4db42ee9a7c2bb1bbcd5fb614e"
+          }
+        ]
+      },
+      {
+        "index": 44,
+        "timeSeconds": 1.791667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0044.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53588,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e64bfd15d4fa64fa0ed64336c97eeb8ec70b245ade0140fc8591383525e09663"
+          },
+          {
+            "path": "media/frames/frame_0044.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100434,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a617c1c81fbfa6af07418808c3fe7c84fec3c0e20517c8c90d8efd53f4e6778b"
+          }
+        ]
+      },
+      {
+        "index": 45,
+        "timeSeconds": 1.833333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0045.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53282,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "10f24d1394680d2b0bd4fe763debd811fbefed76be46fc570a3ac1ae9820a553"
+          },
+          {
+            "path": "media/frames/frame_0045.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100276,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e28190109323eae8236b44acc090f255914a3d9c1c26270a78cb66d334ae8b6e"
+          }
+        ]
+      },
+      {
+        "index": 46,
+        "timeSeconds": 1.875,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0046.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53574,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c3f417e1ee5b84a886327ca1854e83601f323c27c3a156df736bfe015a72a4fd"
+          },
+          {
+            "path": "media/frames/frame_0046.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100516,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "85beb71b83f36b1d43d5369c98d307b0d48868121e9965a14e843c197ad1f885"
+          }
+        ]
+      },
+      {
+        "index": 47,
+        "timeSeconds": 1.916667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0047.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53221,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "31aa7b52bb5fb8d43243309bb8bd74f5874952e816cca7a053aa0b8d19671427"
+          },
+          {
+            "path": "media/frames/frame_0047.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100396,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ade1d3270c10a6532fd17cc01546b3e5ba40c1351fb89cb90b9d16ff406814bd"
+          }
+        ]
+      },
+      {
+        "index": 48,
+        "timeSeconds": 1.958333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0048.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 53132,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "298413123cd40585a8447567945d5c42905a7f594e51a8b107cbc7ae704c3c68"
+          },
+          {
+            "path": "media/frames/frame_0048.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100452,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3cfb3f5b483c5bdbe4b274c9333b4bd609df17bf023777ccba533b760d932fa7"
+          }
+        ]
+      },
+      {
+        "index": 49,
+        "timeSeconds": 2.0,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0049.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 52767,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8aff13654f9023fa90a8930df4a8d5087e8a62662303527b3c8540a1e61712a9"
+          },
+          {
+            "path": "media/frames/frame_0049.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 100214,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "106661d1c4ac7dee01dae6dced28a191a4723563c32dcc7e4abd5de5360f617f"
+          }
+        ]
+      },
+      {
+        "index": 50,
+        "timeSeconds": 2.041667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0050.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 52332,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6c7d727cba7aa98fc25abd309014123fff526311a266c1417feecf9d2f3dd2fa"
+          },
+          {
+            "path": "media/frames/frame_0050.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 99622,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2d107a533cf0be0580a3a8b9d11a4b32e306ff5b0ba861a4b9d59f273996ba4a"
+          }
+        ]
+      },
+      {
+        "index": 51,
+        "timeSeconds": 2.083333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0051.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 51820,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d3b727aa453a9bf26fe393938b56cdbbb21bae0a66f8913bb59f5d1eaccb1a71"
+          },
+          {
+            "path": "media/frames/frame_0051.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 99344,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5a9efcf5490dbdd3ee6f1c707d5a1a359691d1f8768f575f52c0fe8228bbc66d"
+          }
+        ]
+      },
+      {
+        "index": 52,
+        "timeSeconds": 2.125,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0052.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 51941,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "afedaad028c290033ab3d84020a461c72657d4ac1469d7c6a6c6185a12a6bea8"
+          },
+          {
+            "path": "media/frames/frame_0052.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 98720,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9b830725aa849f09d8262cb6b520fe80caadd5abb28f03c64f0dbab87da7c7ec"
+          }
+        ]
+      },
+      {
+        "index": 53,
+        "timeSeconds": 2.166667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0053.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 51386,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7dd5fa58ba7b0f4099617f71e4281e076afddac17940004a1fbb79c006545fcb"
+          },
+          {
+            "path": "media/frames/frame_0053.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 98278,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "6b2219c59382f81794c88815a2e7f9e732503954d89de66a5a4118a09b6144a2"
+          }
+        ]
+      },
+      {
+        "index": 54,
+        "timeSeconds": 2.208333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0054.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 50677,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "bd15628755a62b0d8db281797d028f151bbf0bf75a5ce663a624a89ce8e7c933"
+          },
+          {
+            "path": "media/frames/frame_0054.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 97406,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ae30fe7a946e9930f3c787379cfe0b6b4b7b39d02fa293a3dc903594b05f8f94"
+          }
+        ]
+      },
+      {
+        "index": 55,
+        "timeSeconds": 2.25,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0055.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 50441,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a57f4108ed0ab3452dc7c3dc060371c32e4f34a825f515e1efca9e176ebdaff6"
+          },
+          {
+            "path": "media/frames/frame_0055.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 96736,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ea803e449312928b747464dc6ad678d113ba63dbe7b5006de4a4d2196bf0e058"
+          }
+        ]
+      },
+      {
+        "index": 56,
+        "timeSeconds": 2.291667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0056.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 49739,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "440f920e7d5a3446d2703f24bd7e6304be28674c449c8aa0c59bdb4d3c324132"
+          },
+          {
+            "path": "media/frames/frame_0056.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 96512,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "92722fac1e230d75f20a074302b73815d837bbee2e13293d1ae4cd4d1f524ef5"
+          }
+        ]
+      },
+      {
+        "index": 57,
+        "timeSeconds": 2.333333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0057.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 49418,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "dc3a2deb27c4ef27d760c660421e4234302c955235f38e93f793fb65c10005e8"
+          },
+          {
+            "path": "media/frames/frame_0057.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 96062,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "21ec383da6e314ccda6e87cd0d9d133f079b4d77c5f40f005043d8066b618da2"
+          }
+        ]
+      },
+      {
+        "index": 58,
+        "timeSeconds": 2.375,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0058.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 48165,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "81985a9c9a5bba473a9e06d3d4d820b7899678f39d386ad757c1a08a2b06c923"
+          },
+          {
+            "path": "media/frames/frame_0058.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 95364,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "611e288414764fd1eaedba3dcf9b78110dafc20a4a9a804f24aaec57f71457e1"
+          }
+        ]
+      },
+      {
+        "index": 59,
+        "timeSeconds": 2.416667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0059.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 48580,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "585e0eacbee04bdd14351fbe3e50852f59a97c4a5c125e1d30aa90f2436fd99b"
+          },
+          {
+            "path": "media/frames/frame_0059.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 94668,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "895a0a147700eb37c457e7a5c3bb020c1988653e37f63ccac0eb1190b227ecc7"
+          }
+        ]
+      },
+      {
+        "index": 60,
+        "timeSeconds": 2.458333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0060.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 48262,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f3451beed1891ae477697ee7daa047a2cba6db861706a7d4efdbb8a6e0f4aa12"
+          },
+          {
+            "path": "media/frames/frame_0060.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 93854,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f1e71b714316e4e2c3ced1f56ce4a5351e5c0f07f10566a494c87db781939668"
+          }
+        ]
+      },
+      {
+        "index": 61,
+        "timeSeconds": 2.5,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0061.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 47607,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d0b017da9f5e22c23426bd543db7a0df05c71fa3da96b265d0bb5f62693a7b8c"
+          },
+          {
+            "path": "media/frames/frame_0061.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 93282,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "faee4ad5bb35eb7b0a990f00ebb39d10faa3b9b58e8b6762868628be5e90f233"
+          }
+        ]
+      },
+      {
+        "index": 62,
+        "timeSeconds": 2.541667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0062.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 47105,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2baadad689cedd8b04b8c6343ff32c984d9542e87ea9872edfacd2c99fc2121e"
+          },
+          {
+            "path": "media/frames/frame_0062.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 92548,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3e19ce8c9aaddd223fdcbe5f0df9f3747f39f4714e55dea3cf9d584de8880ae2"
+          }
+        ]
+      },
+      {
+        "index": 63,
+        "timeSeconds": 2.583333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0063.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 46553,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "1dd96ab50875b67a58a29bb41dd338af7abdea490a4a74c5f8cd8ff9f91c9018"
+          },
+          {
+            "path": "media/frames/frame_0063.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 91662,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "90cf808c1e408754b655f2c003b0ab1d91a12849b81f3a4ae62b73601ef6d128"
+          }
+        ]
+      },
+      {
+        "index": 64,
+        "timeSeconds": 2.625,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0064.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 46004,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "b7c099735c9ab9ac5be7e333e7728d01a18f00441c3c4e49e4c65d625231197f"
+          },
+          {
+            "path": "media/frames/frame_0064.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 90694,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "823bbede6ccb9b5571b5bbe9fa346865cce03b5ba5ba41fa469909d5d3414e58"
+          }
+        ]
+      },
+      {
+        "index": 65,
+        "timeSeconds": 2.666667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0065.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 45657,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2550e13d779242ff41b3da0fe94f570556a3b5201b44b75f6f8651d5928ff676"
+          },
+          {
+            "path": "media/frames/frame_0065.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 89858,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e8d870f412ae6821b4eb458e9c6f1c6b85da3ccb6e4cdff0742a34bdceb39700"
+          }
+        ]
+      },
+      {
+        "index": 66,
+        "timeSeconds": 2.708333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0066.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 44923,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8be38fadddeea087c98a86eab9300054163578f86a16f6db28bcbe62e2b17038"
+          },
+          {
+            "path": "media/frames/frame_0066.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 89318,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d50f7c10ee5041399722db09c1fc45d3c13a3d36746e3df6a0180c6088a4ae02"
+          }
+        ]
+      },
+      {
+        "index": 67,
+        "timeSeconds": 2.75,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0067.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 43090,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7a63e9df88e0269c314d326eb66f4e45794d9ccd6557636dccc3ee53765c02ee"
+          },
+          {
+            "path": "media/frames/frame_0067.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 88402,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cf314f2e376e27622f52bb55fcd173664fdfb93b655ffd0ded3c203af34932d7"
+          }
+        ]
+      },
+      {
+        "index": 68,
+        "timeSeconds": 2.791667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0068.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 42210,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "79b972f0a9bfc0ba96c691ecc7300ce9d783bd5beb0c4f6d57c0b96c634b4fde"
+          },
+          {
+            "path": "media/frames/frame_0068.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 87516,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "518936b3397ce9d0199aeec42ab108ae09edd46e5e8c0256a94863eebb6b408d"
+          }
+        ]
+      },
+      {
+        "index": 69,
+        "timeSeconds": 2.833333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0069.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 42517,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "4e8210d8f7afd049e172e6283e97dc5c8c2c77140d4c64f95741b79a3bd1d7d3"
+          },
+          {
+            "path": "media/frames/frame_0069.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 86288,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "671be9abf14db8b1ddd64df635693d8bf921de99d20d4d1502e25c66129c5410"
+          }
+        ]
+      },
+      {
+        "index": 70,
+        "timeSeconds": 2.875,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0070.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 41942,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3376f8643b68fbd52557680b33a85b130b62d483994b631eb7a302bedbd7ab9e"
+          },
+          {
+            "path": "media/frames/frame_0070.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 85072,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "493bb4fee73dbb7745df69e55fbc1a2d425746f4b702f69d4d981b7b7cf839f9"
+          }
+        ]
+      },
+      {
+        "index": 71,
+        "timeSeconds": 2.916667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0071.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 41982,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d743b833100560ee7e8bc456e0a0fb319ef06ef3fbe4e0702feab826fabe2e2d"
+          },
+          {
+            "path": "media/frames/frame_0071.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 84630,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f7361e50f69211d6c18d3e376ab31ec10da086c10c0293c9a51ec4e2c573dc10"
+          }
+        ]
+      },
+      {
+        "index": 72,
+        "timeSeconds": 2.958333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0072.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 41380,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "21c0e6ce72fa62b3005e638393a9a9b00790293691e7fae4a787e580d3cfb755"
+          },
+          {
+            "path": "media/frames/frame_0072.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 83900,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e7756ab3716b67733f1f482baa77078d87e0d7913567e512bd1f113ef3a1a386"
+          }
+        ]
+      },
+      {
+        "index": 73,
+        "timeSeconds": 3.0,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0073.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 40453,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ee3cd13d65c230c5b076167ece9bb5e9835687cd9ca964dc7eca63879c467af7"
+          },
+          {
+            "path": "media/frames/frame_0073.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 83264,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "96b5180c458653cc83b2229cbc5dc778558891b16ba25196f7488f4839baf522"
+          }
+        ]
+      },
+      {
+        "index": 74,
+        "timeSeconds": 3.041667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0074.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 40286,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "4943f67cfed6c14602c02cf3673c612ab1b2070d69a7ea86a77ffebe57070c43"
+          },
+          {
+            "path": "media/frames/frame_0074.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 82598,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "007fd8e403f52182839bc14035d7597e33f54d4a251b07744475f770c1ebd807"
+          }
+        ]
+      },
+      {
+        "index": 75,
+        "timeSeconds": 3.083333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0075.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 39782,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "1b367c9e9146dfd1c491772fa95775ef69edc3196c8f34fda303fbc49cb30303"
+          },
+          {
+            "path": "media/frames/frame_0075.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 82300,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2b1d0d67e45dc92926b52584581dad046d7e7d20c784657c367d819efba710a5"
+          }
+        ]
+      },
+      {
+        "index": 76,
+        "timeSeconds": 3.125,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0076.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 39612,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "72e47e68ae40940f3010e9bfc600f19eeeed94f66cfd782b37059caf895253a5"
+          },
+          {
+            "path": "media/frames/frame_0076.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 80866,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "11bfa09ca6c48dbab8e02a2676b73e4da5745f6f9e6f055782d1e7432f00df97"
+          }
+        ]
+      },
+      {
+        "index": 77,
+        "timeSeconds": 3.166667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0077.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 39263,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "21ece79db6658fb7c2c14bc15e52a9ae98106fed9580ae47ed15a68da7bafd8a"
+          },
+          {
+            "path": "media/frames/frame_0077.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 80358,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "065f4ec238212144b42d43e9109577733876b702163226ada1c49311eef3e646"
+          }
+        ]
+      },
+      {
+        "index": 78,
+        "timeSeconds": 3.208333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0078.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37927,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "237bc604ac1c18a678f10ba2185f858582af3f9a835bf01af529d218ae6b222b"
+          },
+          {
+            "path": "media/frames/frame_0078.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 80078,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "0226154dbb8b30436a84b662f1fee3fcd499068b145f96ae23a91a8b8c9ec95a"
+          }
+        ]
+      },
+      {
+        "index": 79,
+        "timeSeconds": 3.25,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0079.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 39074,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3cfb1739ac0235a8e57f7948ecb5325f0f13ac3d7b61ca4b076256a09f7b3898"
+          },
+          {
+            "path": "media/frames/frame_0079.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79734,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "b9d94a87a1b2463758f730bb9272f60f127b8287c7a1b6de2274de74e286c749"
+          }
+        ]
+      },
+      {
+        "index": 80,
+        "timeSeconds": 3.291667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0080.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38234,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a082cd382bb83c1dc14e7cb3a9a9c8fdabace1d4ef2b29b35831783ad05d86c1"
+          },
+          {
+            "path": "media/frames/frame_0080.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79588,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a09a0bf7ebc41d471050580ad7ee0168f9011f672acecd66b0f64626162a79f9"
+          }
+        ]
+      },
+      {
+        "index": 81,
+        "timeSeconds": 3.333333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0081.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37907,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "393e6fe4a44624d62c1fd6a2b625be39c0479cebd91cf9a6c4a7230ab0b7eac9"
+          },
+          {
+            "path": "media/frames/frame_0081.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79640,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8a7a6dbc0453fe04ffcd1c0b5f8040c62982a4c38026f5443514c84211aac106"
+          }
+        ]
+      },
+      {
+        "index": 82,
+        "timeSeconds": 3.375,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0082.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38222,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "1625ec196da82ea5459ce47b2d72d383940a9e2239be6f4ebc35ab5b2cc5e360"
+          },
+          {
+            "path": "media/frames/frame_0082.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79486,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7eca54721fa6fc110b4ed27fe9744544f77beddbf90897474d5fd11a2546b203"
+          }
+        ]
+      },
+      {
+        "index": 83,
+        "timeSeconds": 3.416667,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0083.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38279,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ffdb39ad641f05a0971915ae2e95d17e5fdf3c82c00713d36d87eefd8b3e6cdd"
+          },
+          {
+            "path": "media/frames/frame_0083.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79430,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "68b2df0c56152d5b7ebddca77cb46db229dcc0ee34d64477238a15969f7e7e58"
+          }
+        ]
+      },
+      {
+        "index": 84,
+        "timeSeconds": 3.458333,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0084.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38306,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d8d5e35b1f19d217a83c4b15ee9c58433fe9a30d8cb391e760bc7b9f5af7ea87"
+          },
+          {
+            "path": "media/frames/frame_0084.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79314,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "86ec8d79d2da038f946896359fe1404d21ec235c5654b260665073aedb0bb89b"
+          }
+        ]
+      },
+      {
+        "index": 85,
+        "timeSeconds": 3.5,
+        "act": 2,
+        "files": [
+          {
+            "path": "media/frames/frame_0085.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38290,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8f19b90b371d065dfda530e2ccd0c7ba0aa053130d7f065d58f1ac6a7e0babbc"
+          },
+          {
+            "path": "media/frames/frame_0085.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79420,
+            "alt": "Varredura diagonal revela a textura do linho e o vestido terracota no ateliê.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "dec12a6e4fc5e7bc373c32ad3140e32a094f5283cbfc0d99a2570173cd340290"
+          }
+        ]
+      },
+      {
+        "index": 86,
+        "timeSeconds": 3.541667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0086.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38132,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2affcce3a3ecb2b511e59af33ca51cf08f6ba94fef75561a5bc5b04d9356c7c4"
+          },
+          {
+            "path": "media/frames/frame_0086.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79714,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e81ee2747792e8346ef1b51a962b8793c689fa7928b8945bc5c3303d2375e957"
+          }
+        ]
+      },
+      {
+        "index": 87,
+        "timeSeconds": 3.583333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0087.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38209,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9420482480eb616ee163de31349c47e65467d212ff3549b0fdffe4b8f859e6e6"
+          },
+          {
+            "path": "media/frames/frame_0087.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79332,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cfb7ac2f4066dedd3e0579db5b21582f5f3abb37482e77df54682f33443a1dfa"
+          }
+        ]
+      },
+      {
+        "index": 88,
+        "timeSeconds": 3.625,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0088.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38000,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9ed474e435fc186a07d693d21db80be175fb6d2c461429a4b93e764342f065a4"
+          },
+          {
+            "path": "media/frames/frame_0088.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79690,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8129d0e4bc00fd927556b8c15d421be7d552f98a3248e6cbc859308495647749"
+          }
+        ]
+      },
+      {
+        "index": 89,
+        "timeSeconds": 3.666667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0089.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38147,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "2b87f20cc2d152aca07da2c1c5f6075fe85f91bf1cf178d4914c48470376fbf2"
+          },
+          {
+            "path": "media/frames/frame_0089.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79740,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c109346d109ad179f367d8abbf0732c0dd4bd3e5d58b32515e13b043995f550e"
+          }
+        ]
+      },
+      {
+        "index": 90,
+        "timeSeconds": 3.708333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0090.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38284,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "99bf45100eac614e715e81888a67272a29773fcfda9abffd902864194440a23e"
+          },
+          {
+            "path": "media/frames/frame_0090.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79502,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a853cdda5968893cd8b41e7c1a444a831b1e2b9f969aa3406242b6c4ee5b7aba"
+          }
+        ]
+      },
+      {
+        "index": 91,
+        "timeSeconds": 3.75,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0091.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38285,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "24bab586773c03512566435f67dcb33ff77de972d522e8918a153b7f24e5eb4b"
+          },
+          {
+            "path": "media/frames/frame_0091.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79416,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ececa0ce44f815ebf37c676973357d86df2fbe74a3add07cd93a668dc4952577"
+          }
+        ]
+      },
+      {
+        "index": 92,
+        "timeSeconds": 3.791667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0092.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38643,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "611d9cb0f106f6af5b0f1a8c6c32415afe52c18378be67e44662347b638e030f"
+          },
+          {
+            "path": "media/frames/frame_0092.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79352,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "b64d46dbfe32cc2d69ce78f0d88dfbc8798ce630bf7d5ffedf55e47c7c2bdeab"
+          }
+        ]
+      },
+      {
+        "index": 93,
+        "timeSeconds": 3.833333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0093.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38597,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a22ab88deb9a1f36693a91d447378009a3044e6e739487c1a5a876ececd7725a"
+          },
+          {
+            "path": "media/frames/frame_0093.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79416,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "396855beea760da46707f988e7056bd53029991cd3e1c622d9f878d860f07dac"
+          }
+        ]
+      },
+      {
+        "index": 94,
+        "timeSeconds": 3.875,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0094.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38644,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "69a38f9412ebe9c0972e4ea51bbf6dcdcc6930b97c7be70a2a7b1a793e634ec7"
+          },
+          {
+            "path": "media/frames/frame_0094.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79438,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3929207bfd7fb3009f8963f155f25751e70186221daddeb9d965884952494b8d"
+          }
+        ]
+      },
+      {
+        "index": 95,
+        "timeSeconds": 3.916667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0095.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38557,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "04a0cb7d3d88e87d8c4dbe6d53d44a11ced0418ffbf9c8f8bd8ece06a8a34113"
+          },
+          {
+            "path": "media/frames/frame_0095.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79516,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "496ff5ee5b87f6e15b8905b34b21ea33ee4e55bb37aab6d1579a51327729b672"
+          }
+        ]
+      },
+      {
+        "index": 96,
+        "timeSeconds": 3.958333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0096.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38353,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5f4770bcc53eb164f16d3d2150ee1369521f1c97ed53b2b1637fb815f0e1c13d"
+          },
+          {
+            "path": "media/frames/frame_0096.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79628,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "03ca76c0028b57e57e79d33c82c95191421dfc606f78a106ab287b9a76f9f421"
+          }
+        ]
+      },
+      {
+        "index": 97,
+        "timeSeconds": 4.0,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0097.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38691,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e36454a1ab5b2cf25986b5df599a24c0ef0feb0dd1ecbbede838cff73c97a843"
+          },
+          {
+            "path": "media/frames/frame_0097.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79388,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3988528078c370a534cdaa73cc6cbd06443597197f800b89d96841f818dd31f2"
+          }
+        ]
+      },
+      {
+        "index": 98,
+        "timeSeconds": 4.041667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0098.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38335,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "bb53df4733875dab2e7a457fca07c410630a6f8361726cbcdb23c8f691a58e2b"
+          },
+          {
+            "path": "media/frames/frame_0098.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 78508,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f765e0ca02f4268f5ba72d73985b64ae40ddaaa9fb899ea6e64bd3daeeff44d5"
+          }
+        ]
+      },
+      {
+        "index": 99,
+        "timeSeconds": 4.083333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0099.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38710,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "63d6a23be7188835d03274647d3130a0563aeb7815562321300afe9a734c0b8b"
+          },
+          {
+            "path": "media/frames/frame_0099.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79192,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "dd159c5809e46284f5e9533da52cb495e8f6d1b4af82b61fce1b7550470c8e84"
+          }
+        ]
+      },
+      {
+        "index": 100,
+        "timeSeconds": 4.125,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0100.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38013,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "16d56ede3c6aed5ef5f0f4ee3d68d57ddb0c42dcdd1cb228639632c9d4dbac06"
+          },
+          {
+            "path": "media/frames/frame_0100.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79322,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "429318e5c64b403c1050f75fad19c913ad482d23121855b90a56001adefc56f9"
+          }
+        ]
+      },
+      {
+        "index": 101,
+        "timeSeconds": 4.166667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0101.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38567,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8c31af6a31bfcf9854b076d5421d1ec5f6a402073d8a7f48a4810437ab9baba1"
+          },
+          {
+            "path": "media/frames/frame_0101.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79210,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a603c031dea568f383eb45b75fafbbcc21275c567a11cda7caff63d441c26de3"
+          }
+        ]
+      },
+      {
+        "index": 102,
+        "timeSeconds": 4.208333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0102.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38711,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c50063fd264112554b1f6f242c3a2bc3c3bf78e829a7cde46e8d4b139066d10c"
+          },
+          {
+            "path": "media/frames/frame_0102.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79358,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "60f6739026374c2fc9179569635c64e620a2adfa3f8ada87091acff8e8295d9a"
+          }
+        ]
+      },
+      {
+        "index": 103,
+        "timeSeconds": 4.25,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0103.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37777,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9cea8e6ae2b2e9034948ae0e0b18a68ae36e66e25cce41ddb1ac35141df7a6f2"
+          },
+          {
+            "path": "media/frames/frame_0103.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79418,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "aadf1040fc3bd3be067d8646148d3596e16006da49a3546eb2395b7177681798"
+          }
+        ]
+      },
+      {
+        "index": 104,
+        "timeSeconds": 4.291667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0104.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38125,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "ef75fb8da5bc6b64be5560301abc791e3aef02c1ec1c501116f87b1ad1b2c002"
+          },
+          {
+            "path": "media/frames/frame_0104.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79654,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a5962aadffeabdb811c63505cf89e34fa69fb2c0f5491f207560b90eebcbc971"
+          }
+        ]
+      },
+      {
+        "index": 105,
+        "timeSeconds": 4.333333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0105.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38198,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "0fe28a57fe57c2f925a99d312f7ed4f30764a2a6bb868b19c575b0ddf561bcda"
+          },
+          {
+            "path": "media/frames/frame_0105.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79676,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "99732d057699802dfddfd01d7fa6b3507d340b726546ddb915abc200938c5599"
+          }
+        ]
+      },
+      {
+        "index": 106,
+        "timeSeconds": 4.375,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0106.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38218,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c705a6c0dffa7cdb691a747193ab2571d2f03052e52180389465be99be861c3f"
+          },
+          {
+            "path": "media/frames/frame_0106.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79482,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "9e4fff0c14333a8607de5cc0a1df505b340799aa76cdfb6b4f93029405cc67b6"
+          }
+        ]
+      },
+      {
+        "index": 107,
+        "timeSeconds": 4.416667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0107.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38548,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c8187fc5e9039a02ba29b49d11e27ed69f18f14848f892520a0c4e30cd0af60a"
+          },
+          {
+            "path": "media/frames/frame_0107.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 78888,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "fd229d575f7a316521381149960fa722d6af1dd68151002260c53dadf23d4a7c"
+          }
+        ]
+      },
+      {
+        "index": 108,
+        "timeSeconds": 4.458333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0108.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38531,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "008590e2615b89e4b17e39faa8a1b1069dd0c46c5f2374f2a54f0a0cca9a5800"
+          },
+          {
+            "path": "media/frames/frame_0108.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79742,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "74c1582aca3775dfa3ce9391959dc2d5c76d7e3c777e80a93f1d8ddca3ad4b05"
+          }
+        ]
+      },
+      {
+        "index": 109,
+        "timeSeconds": 4.5,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0109.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38546,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "dc1f41d41ae69b40ad96f85d6b958164841f94f0a3bb155faf028d2d2a5fcf4c"
+          },
+          {
+            "path": "media/frames/frame_0109.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79618,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "4648d3c9573e03e67ad4c49adef7bd4841dbade6e5f409a917cfefa0a6eeefd5"
+          }
+        ]
+      },
+      {
+        "index": 110,
+        "timeSeconds": 4.541667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0110.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38352,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "8f0f4dfdaa65bfd7ff5f220805d987a17796f55861059005fe5c56ececd74e52"
+          },
+          {
+            "path": "media/frames/frame_0110.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79524,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "53612d9ea6b5155fbc47e2e2abbafa4977e15b182ae7cdae990be69275088ffc"
+          }
+        ]
+      },
+      {
+        "index": 111,
+        "timeSeconds": 4.583333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0111.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38448,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "748f0afe7b19a1afbad0b94e71c9a16503e8916aa03ff7928c7e7b7344ada5bb"
+          },
+          {
+            "path": "media/frames/frame_0111.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79580,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d4f12a89113e5105b71b2e58de37f389ffa5b6a728cf4b919338673d83ec5b78"
+          }
+        ]
+      },
+      {
+        "index": 112,
+        "timeSeconds": 4.625,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0112.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38360,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "a44fa1aae7da3951ccf2531b4e752e4c21d2fac96c60cd0c34567618ef8ef291"
+          },
+          {
+            "path": "media/frames/frame_0112.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79562,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "c60b29096aca347f22e9521d9fff23f5efa9c390539211cb3b0b9f79776478fd"
+          }
+        ]
+      },
+      {
+        "index": 113,
+        "timeSeconds": 4.666667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0113.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38274,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "5fab67243411e9df89a8d5fe0dbd1f4f43198f4f68a2e410077f29a377383099"
+          },
+          {
+            "path": "media/frames/frame_0113.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79602,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "de23e10b059d87f3f7289a3739ea408efdefaf610ff933ec0e0e1ed50f16eec6"
+          }
+        ]
+      },
+      {
+        "index": 114,
+        "timeSeconds": 4.708333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0114.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38472,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "4f91198bb36cd02cf94aaf0054fc29960d4a54c73bb1a05d24304cbb880426f5"
+          },
+          {
+            "path": "media/frames/frame_0114.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79518,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cf6cdf8468fd2df4e1e3f0b7265605e806a84e497085fb4939e42eb4a70c780b"
+          }
+        ]
+      },
+      {
+        "index": 115,
+        "timeSeconds": 4.75,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0115.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37796,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "f172fcebb0dd38943fb830e78e1558c27c0801e4c20ee574db63686b0fd44b62"
+          },
+          {
+            "path": "media/frames/frame_0115.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79496,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "987d1bb681fb16ec3cb1c4b0e9976610c2956889ef308fbced6b07c123ae4ce4"
+          }
+        ]
+      },
+      {
+        "index": 116,
+        "timeSeconds": 4.791667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0116.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38183,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "cd21b4bbe35a1c1dcb31f9eb4c7bbd723edf82b237b71b8bb2af6b4502105345"
+          },
+          {
+            "path": "media/frames/frame_0116.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79502,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "78ead7242ac0ecb84051983bd02451abc30913ef5df437a3e803306ce5eb89c0"
+          }
+        ]
+      },
+      {
+        "index": 117,
+        "timeSeconds": 4.833333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0117.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38448,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7b5d6f2b71c6f7c40196d62d98f84ce9c23d3c48dadbe136fa33df62ce93ded4"
+          },
+          {
+            "path": "media/frames/frame_0117.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79396,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "7d94d566c463d4cbe2cf46ded97892cd609503c4897c6f9137c16a5356b34d93"
+          }
+        ]
+      },
+      {
+        "index": 118,
+        "timeSeconds": 4.875,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0118.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38147,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "e4b8a7485059a06dd7f4b64907ea19dc6f5a42d41982684e307be0cd07577e64"
+          },
+          {
+            "path": "media/frames/frame_0118.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79520,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d1860102acf37914790f31250970584289011d58cab276da337c216b35402cc0"
+          }
+        ]
+      },
+      {
+        "index": 119,
+        "timeSeconds": 4.916667,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0119.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 38049,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "0e7c1ff6a59305fcf76fef12ad31846601999b05961f5aaa1ddaee16bad32bd6"
+          },
+          {
+            "path": "media/frames/frame_0119.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79518,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "15160816e83074cd7ad2c69c0ebf512d34d880d83c27150c1ee33f612adf76f4"
+          }
+        ]
+      },
+      {
+        "index": 120,
+        "timeSeconds": 4.958333,
+        "act": 3,
+        "files": [
+          {
+            "path": "media/frames/frame_0120.avif",
+            "format": "avif",
+            "width": 1024,
+            "height": 576,
+            "bytes": 37974,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "3c54f72e5536638d48bc08868dd220c08cf38b3d63a74af258c7c99a934840c4"
+          },
+          {
+            "path": "media/frames/frame_0120.webp",
+            "format": "webp",
+            "width": 1024,
+            "height": 576,
+            "bytes": 79474,
+            "alt": "Vestido midi finalizado no ateliê, com movimento sutil do tecido e da luz.",
+            "focalPoint": {
+              "x": 0.54,
+              "y": 0.48
+            },
+            "sha256": "d28e65244ba2985ba9dcdaabac8cfd1065e47cbd8ec1e6fe9c9565a26e2d373b"
+          }
+        ]
+      }
+    ]
+  },
+  "totals": {
+    "staticImages": 21,
+    "staticFiles": 42,
+    "sequenceFiles": 240,
+    "videoFiles": 1,
+    "mediaFiles": 283,
+    "bytes": 18346285
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "passed",
+  "date": "2026-10-28",
+  "mediaFileCount": 283,
+  "checks": {
+    "exactFilenames": true,
+    "dimensions": true,
+    "allImagesDecodedWithPillow": true,
+    "avifCount": 141,
+    "webpCount": 141,
+    "avifIndividualEncoding": true,
+    "av1CConfigurationBoxesPopulated": true,
+    "mp4": {
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 24,
+      "frames": 108,
+      "durationSeconds": 4.5,
+      "crf": 24,
+      "audio": false,
+      "faststart": true,
+      "xfade": {
+        "duration": 0.5,
+        "offset": 4.5,
+        "trimStart": 0.5
+      }
+    },
+    "visualReview": {
+      "editorials": true,
+      "allProductFrontAndDetailPairs": true,
+      "storyboard": [
+        1,
+        35,
+        50,
+        70,
+        85,
+        120
+      ]
+    }
+  },
+  "browser": {
+    "status": "passed",
+    "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "totalImagesDecoded": 282,
+    "avifDecoded": 141,
+    "webpDecoded": 141,
+    "canvasDrawVerified": true,
+    "errors": [],
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "duration": 4.5,
+      "seekAndCanvasDecode": true
+    }
+  },
+  "motion": {
+    "decodedFrames": 108,
+    "normalFrameChangeMedian": 0.24432870745658875,
+    "normalFrameChangeMax": 1.1611169576644897,
+    "lastToFirstChange": 1.240781307220459,
+    "boundaryToMedianRatio": 5.078327962918216,
+    "metric": "Mean absolute RGB difference on 320x180 decoded frames, range 0-255.",
+    "continuous": true
+  }
+}
