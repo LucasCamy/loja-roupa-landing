@@ -14,6 +14,10 @@ npm run shots        # screenshots + overflow/imagens/console em 360–1920
 docker compose up --build          # http://localhost:8080 (PORT=xxxx para mudar)
 ```
 
+## Deploy (Cloudlane Homelab)
+
+Push na `main` → GitHub Actions (lint, typecheck, testes, build) → `ghcr.io/lucascamy/loja-roupa-landing:latest` → Keel atualiza o Deployment no k3s em até 1 minuto. Manifests em `k8s/deploy.yaml` (namespace `landingpages`, Service LoadBalancer na porta 8215). Público em `https://moda.cloudlane.com.br` pelo Cloudlane Tunnel.
+
 `?movimento=1` força as animações mesmo com “reduzir movimento” ligado.
 
 ## Antes de publicar

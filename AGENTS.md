@@ -9,7 +9,8 @@ Landing page de loja-boutique de moda feminina (marca demonstrativa **Aura Ateli
 - Motion (`motion/react`) para estados de UI e revelações ao rolar (`src/components/ui/Reveal.tsx`); GSAP + ScrollTrigger só na cena `AtelierCraft`. Rolagem nativa (sem Lenis: ver Desempenho)
 - Phosphor Icons, fontes self-hosted via `@fontsource-variable/*` (Cormorant Garamond, Plus Jakarta Sans, JetBrains Mono)
 - Vitest + Testing Library (jsdom); Playwright (`playwright-core`, Edge/Chrome instalados) para E2E e screenshots
-- Docker: build Node 24 → Nginx 1.29 (`Dockerfile`, `docker-compose.yml`, `docker/`)
+- Docker: build Node 24 → nginx-unprivileged 1.30 na porta 8080, usuário 101 (`Dockerfile`, `docker-compose.yml`, `docker/`)
+- Deploy: Cloudlane Homelab (k3s). GitHub Actions publica `ghcr.io/lucascamy/loja-roupa-landing` e o Keel aplica; manifests em `k8s/deploy.yaml` (namespace `landingpages`, porta 8215, `https://moda.cloudlane.com.br`)
 
 ## Organização
 
@@ -69,7 +70,7 @@ UI: estruturar no Figma antes do código quando houver assento de edição (ver 
 
 - `site.isDemo: true` mantém avisos de conteúdo fictício. Antes de publicar: trocar contatos, depoimentos, nomes e preencher dados do fornecedor (CNPJ, endereço) que ficam como `pendente` no rodapé. Ver `LEGAL_CHECKLIST.md` (minuta, revisar com advogado).
 - Nenhum rastreador/analytics instalado; fontes são self-hosted. Adicionar analytics exige rever cookies/consentimento.
-- Deploy e publicação exigem pedido explícito.
+- Deploy e publicação exigem pedido explícito. Push na `main` publica a imagem e o Keel atualiza o site em até ~1 min: trate push como deploy.
 
 ## Documentação
 

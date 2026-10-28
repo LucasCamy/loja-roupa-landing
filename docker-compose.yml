@@ -4,5 +4,5 @@ services:
     image: aura-atelier-landing:latest
     container_name: aura-atelier
     ports:
-      - "${PORT:-8080}:80"
+      - "${PORT:-8080}:8080"
     restart: unless-stopped
