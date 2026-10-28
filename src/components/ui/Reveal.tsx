@@ -5,8 +5,9 @@
  *   acontece quando a pessoa chega lá. Vale para blocos de qualquer altura
  *   (exigir uma fração do bloco visível nunca dispara se ele for maior que a tela).
  * - Os itens entram em sequência (`stagger`), cada um com um gesto próprio.
- * - Só opacity, transform (string) e clip-path: o Motion entrega ao WAAPI e a
- *   animação roda no compositor, sem disputar o thread principal com a rolagem.
+ * - Só opacity e transform (string): o Motion entrega ao WAAPI e a animação roda
+ *   no compositor, sem disputar o thread principal com a rolagem. Fotos abrem com
+ *   uma capa da cor do fundo que encolhe (clip-path animado repintaria a foto a cada quadro).
  * - Movimento reduzido: tudo já aparece no estado final (initial = false).
  */
 import type { ReactNode } from 'react'
